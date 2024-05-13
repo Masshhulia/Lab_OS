@@ -40,7 +40,7 @@ name: .NET
 
 on:
   push:
-    branches: [ "1" ]
+    branches: [ "main" ]
   pull_request:
     branches: [ "main" ]
 
